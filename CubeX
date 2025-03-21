@@ -2,6 +2,12 @@
 Prototype development for CubeX 0.1 AI home product.
 CubeX AI is an AI-powered smart cube designed for students. It offers real-time voice translation without app installation.  
 
+# Prototype Code
+1. Speech-to-Text (STT) – Audio Recognizing
+2. Text-to-Text Translation
+3. Text-to-Speech (TTS) – AI Voice Output
+4. Bluetooth / Wi-Fi Connectivity
+
 # Features
 - 📡 Wi-Fi / Bluetooth Connectivity  
 - 🎤 Built-in Microphone  
